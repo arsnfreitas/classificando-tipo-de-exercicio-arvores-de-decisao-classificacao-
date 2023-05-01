@@ -11,4 +11,4 @@ A base é oriunda de um experimento, em que os indivíduos realizavam uma de sei
 - sentado
 - deitado
 
-O objetivo é classificar a atividade humana com base nos dados do acelerômetro e giroscópio do celular.
+O objetivo é classificar a atividade humana com base nos dados do acelerômetro e giroscópio do celular. Aplicando técnicas de cross-validation.
